@@ -25,8 +25,8 @@ slideshows, and you set it up and change its pictures from the **Pixel Xpress** 
   safe mode.
 
 ### Updating
-- **[Updating the display software over Wi-Fi](docs/update-over-wifi.md)**: install new display
-  software from your phone. No cable needed.
+- **[Updating the device software over Wi-Fi](docs/update-over-wifi.md)**: install new software on your
+  PixelXpress from your phone. No cable needed.
 
 ### Fixing problems
 - **[Troubleshooting](docs/troubleshooting.md)**: display not found, won't join Wi-Fi, shows as

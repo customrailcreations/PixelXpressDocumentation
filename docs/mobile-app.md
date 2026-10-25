@@ -34,7 +34,7 @@ Tap a display's name to open its actions:
 | Action | What it does |
 |---|---|
 | **Upload Image or Slideshow** | Choose new pictures for the display (see below) |
-| **Update Device Software** / **Device Software** | Shows the display's software version and installs updates. See [Updating over Wi-Fi](update-over-wifi.md) |
+| **Update Software** | Shows the display's software version and installs updates. See [Updating over Wi-Fi](update-over-wifi.md) |
 | **Reboot Device** | Restarts the display. It reconnects by itself and the app waits for it |
 | **Delete Device** | Removes the display from the app. It keeps its pictures and Wi-Fi; you can add it again with **Scan Devices** |
 

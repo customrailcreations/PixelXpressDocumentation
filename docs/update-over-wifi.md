@@ -1,4 +1,4 @@
-# Updating the display software over Wi-Fi
+# Updating the device software over Wi-Fi
 
 [← All guides](../README.md)
 
@@ -9,7 +9,7 @@ phone installs it over Wi-Fi; no cable or computer is needed.
 
 1. Update the **Pixel Xpress** app from the App Store or Google Play.
 2. Open the app. Displays that can be updated show **Update available** on the main screen.
-3. Tap the display, then **Update Display Software**.
+3. Tap the display, then **Update Software**.
 4. Keep the phone on the same Wi-Fi and leave the display powered. The app sends the update, and
    the display restarts once or twice. This takes about a minute.
 5. When it's done, the app shows **Display updated** and the new version number.
